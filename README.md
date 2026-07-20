@@ -31,3 +31,5 @@ camera/photo picker and text-to-speech, rather than browser APIs.
 4. Install **Expo Go** on the phone, connect it to the same Wi-Fi network, and
    scan the QR code. Press `i` or `a` in the Expo terminal to launch an iOS or
    Android simulator instead.
+
+> 해당 리소스 및 파일 관리는 AI Studio(gemini flash 3.5)와 codex(gpt5.6 terra)를 이용하여 만들어진 해커톤 생산물입니다
