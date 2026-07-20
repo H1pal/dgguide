@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: Remix: 키오스크 시니어 가이드",
+  "description": "어르신들을 위한 쉽고 상세한 키오스크 화면 조작 가이드 (AI 분석 및 음성 안내 지원)",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

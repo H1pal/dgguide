@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "디지털 가이드",
+    "slug": "digital-guide",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#EFF6FF" },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "키오스크 화면을 촬영해 안내하기 위해 카메라 접근 권한이 필요합니다."
+      }
+    },
+    "android": {
+      "adaptiveIcon": { "backgroundColor": "#2563EB" },
+      "permissions": ["CAMERA", "RECORD_AUDIO"]
+    },
+    "plugins": [
+      ["expo-image-picker", {
+        "photosPermission": "키오스크 화면 사진을 골라 안내하기 위해 사진 접근 권한이 필요합니다.",
+        "cameraPermission": "키오스크 화면을 촬영해 안내하기 위해 카메라 권한이 필요합니다."
+      }]
+    ]
+  }
+}
