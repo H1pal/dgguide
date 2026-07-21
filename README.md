@@ -5,6 +5,7 @@
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
+- Notion: https://app.notion.com/p/with-heepal-napal/3a1ff5f7cf9f8010a2a4fc8d70509d7c?source=copy_link
 
 ## Run Locally
 
